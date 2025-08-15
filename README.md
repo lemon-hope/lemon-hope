@@ -11,48 +11,11 @@
 
 ## About me  
 
-My name is Bem Amado, and I'm a Computer Science engineering student at Grenoble INP - UGA, France. 
+My name is Lemon Hope, and I'm a computer science enthusiast. puter Science entusiast. 
 
-- I'm interested on : open source, cybersecurity, operating systems (specially *nix), compilers and programming
+- I'm interested on : open source software, cybersecurity, operating systems (specially *nix), compilers and programming
 - Currently learning : [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) and web development
 - Reading preferences : Psychology, Philsophy and technical books
-- Hobbies : programming, watch documentaries and play chess
+- Hobbies : programming, watch documentaries
 
-## Tools and skills
-- **Scripting :**
-
-      - Bash
-      - Python
-      - PowerShell
-- **Programming :**
-  
-      - C/C++
-      - Java
-      - JavaScript
-      - Python
-      - Matlab
-      - R
-  
-- **Other :**
-
-      - Network and system administration
-      - MS Active Directory
-      - ML and AI
-      - TensorFlow
-      - GNU/Linux
-      - Vim and VSCodium
-      - Git
-      - Docker
-      - Database design and implementation
-      - Project Management and teamwork
-
-***"Oh, I use Arch btw!" XD***
-       
-## Contact me 
-- [Email](mailto:bemdev26@disroot.org)
-- [GitHub](https://github.com/lemon-hope/)
-- [LinkedIn](https://www.linkedin.com/)
-- [Website](https://www.bcristin.dev/)
-- [Personal blog](https://www.blog.bcristin.dev/)
-
-***Last Edited on: 12/08/2024***
+***Last Edited on: 15/08/2024***
