@@ -11,11 +11,6 @@
 
 ## About me  
 
-My name is Lemon Hope, and I'm a computer science enthusiast. puter Science entusiast. 
+My name is Lemon Hope, and I'm a computer science enthusiast.
 
-- I'm interested on : open source software, cybersecurity, operating systems (specially *nix), compilers and programming
-- Currently learning : [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) and web development
-- Reading preferences : Psychology, Philsophy and technical books
-- Hobbies : programming, watch documentaries
-
-***Last Edited on: 15/08/2024***
+***Last Edited on: 29/09/2025***
